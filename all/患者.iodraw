@@ -40,7 +40,7 @@
         <mxCell id="7wg2934Fk5SlYU-BJIYj-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;菜单树查询&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="387" y="85" width="135" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="7wg2934Fk5SlYU-BJIYj-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="7wg2934Fk5SlYU-BJIYj-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;角色配置&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="387" y="676" width="135" height="53" as="geometry" />
         </mxCell>
       </root>
