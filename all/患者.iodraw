@@ -16,23 +16,11 @@
         <mxCell id="B0H3pebMiKlAPXDSqDfI-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;菜单树查询&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="387" y="72" width="137" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="imFMM0xPfSiojYdRt2Rj-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;菜单新增&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="387" y="159" width="163" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="imFMM0xPfSiojYdRt2Rj-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;菜单修改&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="387" y="241" width="163" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="imFMM0xPfSiojYdRt2Rj-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;菜单删除&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="387" y="324" width="163" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="imFMM0xPfSiojYdRt2Rj-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;菜单配置&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="387" y="409" width="163" height="69" as="geometry" />
-        </mxCell>
         <mxCell id="7wg2934Fk5SlYU-BJIYj-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;菜单新增&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="583" y="168" width="137" height="60" as="geometry" />
+          <mxGeometry x="387" y="143" width="137" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7wg2934Fk5SlYU-BJIYj-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;菜单修改&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="598" y="245.5" width="137" height="60" as="geometry" />
+          <mxGeometry x="387" y="215" width="137" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7wg2934Fk5SlYU-BJIYj-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;菜单删除&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="596" y="345" width="137" height="60" as="geometry" />
