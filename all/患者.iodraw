@@ -23,10 +23,10 @@
           <mxGeometry x="554" y="512" width="135" height="53" as="geometry" />
         </mxCell>
         <mxCell id="7wg2934Fk5SlYU-BJIYj-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;新增用户&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="564" y="444" width="135" height="53" as="geometry" />
+          <mxGeometry x="387" y="412" width="135" height="53" as="geometry" />
         </mxCell>
         <mxCell id="7wg2934Fk5SlYU-BJIYj-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;菜单配置&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="562" y="362.5" width="135" height="53" as="geometry" />
+          <mxGeometry x="387" y="346" width="135" height="53" as="geometry" />
         </mxCell>
         <mxCell id="7wg2934Fk5SlYU-BJIYj-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;菜单删除&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="387" y="280" width="135" height="53" as="geometry" />
