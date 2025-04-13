@@ -28,7 +28,7 @@
         <mxCell id="imFMM0xPfSiojYdRt2Rj-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;菜单配置&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="387" y="409" width="163" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="imFMM0xPfSiojYdRt2Rj-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改个人信息&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="imFMM0xPfSiojYdRt2Rj-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;角色修改&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="387" y="493" width="163" height="69" as="geometry" />
         </mxCell>
         <mxCell id="imFMM0xPfSiojYdRt2Rj-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;同步校准&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
