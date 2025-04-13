@@ -25,7 +25,7 @@
         <mxCell id="imFMM0xPfSiojYdRt2Rj-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;菜单删除&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="387" y="324" width="163" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="imFMM0xPfSiojYdRt2Rj-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;查询患者&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="imFMM0xPfSiojYdRt2Rj-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;菜单配置&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="387" y="409" width="163" height="69" as="geometry" />
         </mxCell>
         <mxCell id="imFMM0xPfSiojYdRt2Rj-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;修改个人信息&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
