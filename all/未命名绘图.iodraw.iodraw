@@ -10,10 +10,10 @@
         <mxCell id="AAFQAAmJ4CidYWXfxf8F-3" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="425" y="320" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AAFQAAmJ4CidYWXfxf8F-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="AAFQAAmJ4CidYWXfxf8F-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AAFQAAmJ4CidYWXfxf8F-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="400" as="sourcePoint" />
-            <mxPoint x="470" y="400" as="targetPoint" />
+            <mxPoint x="470" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AAFQAAmJ4CidYWXfxf8F-5" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="AAFQAAmJ4CidYWXfxf8F-4">
