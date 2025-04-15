@@ -8,7 +8,7 @@
           <mxGeometry x="300" y="190" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AAFQAAmJ4CidYWXfxf8F-13" value="用&lt;div style=&quot;font-size: 16px;&quot;&gt;户&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="170" y="290" width="40" height="110" as="geometry" />
+          <mxGeometry x="30" y="320" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="AAFQAAmJ4CidYWXfxf8F-14" value="设&lt;div&gt;备&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="270" y="290" width="40" height="110" as="geometry" />
@@ -17,10 +17,10 @@
           <mxGeometry x="370" y="290" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="AAFQAAmJ4CidYWXfxf8F-16" value="医&lt;div&gt;患&lt;/div&gt;&lt;div&gt;协&lt;/div&gt;&lt;div&gt;同&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="490" y="290" width="40" height="110" as="geometry" />
+          <mxGeometry x="460" y="290" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="AAFQAAmJ4CidYWXfxf8F-17" value="康&lt;div&gt;复&lt;/div&gt;&lt;div&gt;训&lt;/div&gt;&lt;div&gt;练&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="600" y="290" width="40" height="110" as="geometry" />
+          <mxGeometry x="550" y="290" width="40" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
