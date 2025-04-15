@@ -23,13 +23,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="469.5" y="360" as="sourcePoint" />
             <mxPoint x="469.5" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="470" y="380" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AAFQAAmJ4CidYWXfxf8F-8" value="1" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="AAFQAAmJ4CidYWXfxf8F-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AAFQAAmJ4CidYWXfxf8F-9" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
