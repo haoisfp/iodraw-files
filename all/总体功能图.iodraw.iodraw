@@ -13,8 +13,14 @@
         <mxCell id="AAFQAAmJ4CidYWXfxf8F-30" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="128" y="156" width="71" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="AAFQAAmJ4CidYWXfxf8F-31" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AAFQAAmJ4CidYWXfxf8F-31" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="138" y="166" width="71" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="AAFQAAmJ4CidYWXfxf8F-32" value="手机" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="148" y="176" width="71" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="AAFQAAmJ4CidYWXfxf8F-33" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="158" y="186" width="71" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
