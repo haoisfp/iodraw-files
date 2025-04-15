@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AAFQAAmJ4CidYWXfxf8F-2" value="脊柱侧弯智能矫形器系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AAFQAAmJ4CidYWXfxf8F-2" value="脊柱侧弯智能矫形器系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="380" y="210" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AAFQAAmJ4CidYWXfxf8F-13" value="用&lt;div style=&quot;font-size: 16px;&quot;&gt;户&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="150" y="390" width="70" height="130" as="geometry" />
+          <mxGeometry x="180" y="390" width="40" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
