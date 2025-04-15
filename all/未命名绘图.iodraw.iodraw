@@ -17,7 +17,10 @@
           <mxGeometry x="385" y="290" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="AAFQAAmJ4CidYWXfxf8F-16" value="医&lt;div&gt;患&lt;/div&gt;&lt;div&gt;协&lt;/div&gt;&lt;div&gt;同&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="40" height="110" as="geometry" />
+          <mxGeometry x="490" y="290" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AAFQAAmJ4CidYWXfxf8F-17" value="用&lt;div style=&quot;font-size: 16px;&quot;&gt;户&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;管&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="210" y="330" width="40" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
