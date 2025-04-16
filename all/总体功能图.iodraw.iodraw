@@ -267,10 +267,10 @@
           <mxGeometry x="510" y="128" width="71" height="39" as="geometry" />
         </mxCell>
         <mxCell id="AAFQAAmJ4CidYWXfxf8F-119" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="556" y="82" width="71" height="39" as="geometry" />
+          <mxGeometry x="631" y="72" width="71" height="39" as="geometry" />
         </mxCell>
         <mxCell id="AAFQAAmJ4CidYWXfxf8F-120" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="646.5" y="63" width="71" height="39" as="geometry" />
+          <mxGeometry x="744" y="89" width="71" height="39" as="geometry" />
         </mxCell>
         <mxCell id="AAFQAAmJ4CidYWXfxf8F-122" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AAFQAAmJ4CidYWXfxf8F-117" target="AAFQAAmJ4CidYWXfxf8F-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
