@@ -61,9 +61,6 @@
         <mxCell id="AAFQAAmJ4CidYWXfxf8F-43" value="患者名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-67" y="84" width="71" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="AAFQAAmJ4CidYWXfxf8F-44" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="114" y="84" width="71" height="39" as="geometry" />
-        </mxCell>
         <mxCell id="AAFQAAmJ4CidYWXfxf8F-45" value="医生id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="23.5" y="65" width="71" height="39" as="geometry" />
         </mxCell>
@@ -86,12 +83,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="79" y="189" as="sourcePoint" />
             <mxPoint x="-22" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AAFQAAmJ4CidYWXfxf8F-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AAFQAAmJ4CidYWXfxf8F-41" target="AAFQAAmJ4CidYWXfxf8F-44">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="89" y="199" as="sourcePoint" />
-            <mxPoint x="-12" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AAFQAAmJ4CidYWXfxf8F-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AAFQAAmJ4CidYWXfxf8F-46" target="AAFQAAmJ4CidYWXfxf8F-41">
