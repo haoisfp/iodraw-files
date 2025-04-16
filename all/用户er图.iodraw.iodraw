@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AAFQAAmJ4CidYWXfxf8F-219" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="488" y="241" width="120" height="60" as="geometry" />
+        <mxCell id="AAFQAAmJ4CidYWXfxf8F-219" value="蓝牙管理层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="488" y="631" width="181" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
