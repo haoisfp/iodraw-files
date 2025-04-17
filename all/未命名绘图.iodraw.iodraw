@@ -92,13 +92,23 @@
             <mxPoint x="261" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-31" value="访问页面" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-31" value="请求验证码" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="97" y="248" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="182" y="248" />
             </Array>
             <mxPoint x="241" y="248" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-32" value="访问页面" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="140" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="200" y="140" />
+            </Array>
+            <mxPoint x="259" y="140" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
