@@ -237,13 +237,22 @@
             <mxPoint x="582" y="660" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-47" value="返回用户信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-47" value="返回Token和用户信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="453" y="589" as="targetPoint" />
+            <mxPoint x="269" y="668" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="548" y="589" />
+              <mxPoint x="364" y="668" />
             </Array>
-            <mxPoint x="597" y="589" as="sourcePoint" />
+            <mxPoint x="413" y="668" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-48" value="返回用户信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="463" y="599" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="558" y="599" />
+            </Array>
+            <mxPoint x="607" y="599" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
