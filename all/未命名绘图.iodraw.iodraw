@@ -141,6 +141,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-36" value="请求验证码" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="117" y="268" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="202" y="268" />
+            </Array>
+            <mxPoint x="261" y="268" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
