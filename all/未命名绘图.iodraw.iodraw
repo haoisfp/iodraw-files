@@ -51,13 +51,10 @@
           <mxGeometry x="45" y="70" width="10" height="559" as="geometry" />
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-21" value="Redis" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="538" y="40" width="110" height="451" as="geometry" />
+          <mxGeometry x="538" y="40" width="110" height="631" as="geometry" />
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="YtK3o3hL1eF2Ipv-bdVO-21">
-          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="YtK3o3hL1eF2Ipv-bdVO-21">
-          <mxGeometry x="50" y="120" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="561" as="geometry" />
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-29" value="检查Token" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -70,11 +67,11 @@
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-30" value="Token未找到" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="165" as="sourcePoint" />
+            <mxPoint x="400" y="159" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="351" y="165" />
+              <mxPoint x="351" y="159" />
             </Array>
-            <mxPoint x="261" y="165" as="targetPoint" />
+            <mxPoint x="261" y="159" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-31" value="请求验证码" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
