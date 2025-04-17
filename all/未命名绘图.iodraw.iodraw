@@ -22,11 +22,11 @@
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-8" value="存储成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="432" y="321" as="targetPoint" />
+            <mxPoint x="429" y="294" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="527" y="321" />
+              <mxPoint x="524" y="294" />
             </Array>
-            <mxPoint x="576" y="321" as="sourcePoint" />
+            <mxPoint x="573" y="294" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-9" value="跳转到登陆页面" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
@@ -86,21 +86,21 @@
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-32" value="生成验证码" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="259" y="271" as="sourcePoint" />
+            <mxPoint x="259" y="253" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="344" y="271" />
+              <mxPoint x="344" y="253" />
             </Array>
-            <mxPoint x="403" y="271" as="targetPoint" />
+            <mxPoint x="403" y="253" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-33" value="存储验证码和UUID" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="431" y="292" as="sourcePoint" />
+            <mxPoint x="429" y="274" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="516" y="292" />
+              <mxPoint x="514" y="274" />
             </Array>
-            <mxPoint x="575" y="292" as="targetPoint" />
+            <mxPoint x="573" y="274" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
