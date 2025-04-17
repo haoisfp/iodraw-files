@@ -106,20 +106,20 @@
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-34" value="返回验证码和UUID" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="94" y="346" as="targetPoint" />
+            <mxPoint x="95" y="311" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="189" y="346" />
+              <mxPoint x="190" y="311" />
             </Array>
-            <mxPoint x="238" y="346" as="sourcePoint" />
+            <mxPoint x="239" y="311" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-35" value="提交登录所需信息" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="96" y="377" as="sourcePoint" />
+            <mxPoint x="94" y="352" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="181" y="377" />
+              <mxPoint x="179" y="352" />
             </Array>
-            <mxPoint x="240" y="377" as="targetPoint" />
+            <mxPoint x="238" y="352" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
