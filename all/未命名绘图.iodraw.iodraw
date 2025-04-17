@@ -199,6 +199,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-42" value="清除成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="447" y="511" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="542" y="511" />
+            </Array>
+            <mxPoint x="591" y="511" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
