@@ -202,11 +202,11 @@
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-44" value="存储登录状态" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="433" y="592" as="sourcePoint" />
+            <mxPoint x="429" y="591" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="518" y="592" />
+              <mxPoint x="514" y="591" />
             </Array>
-            <mxPoint x="577" y="592" as="targetPoint" />
+            <mxPoint x="573" y="591" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
