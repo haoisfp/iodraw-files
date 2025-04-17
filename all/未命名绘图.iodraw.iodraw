@@ -125,21 +125,21 @@
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-36" value="验证用户登录" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="399" as="sourcePoint" />
+            <mxPoint x="259" y="376" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="345" y="399" />
+              <mxPoint x="344" y="376" />
             </Array>
-            <mxPoint x="404" y="399" as="targetPoint" />
+            <mxPoint x="403" y="376" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-37" value="查询验证码" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="434" y="419" as="sourcePoint" />
+            <mxPoint x="431" y="398" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="519" y="419" />
+              <mxPoint x="516" y="398" />
             </Array>
-            <mxPoint x="578" y="419" as="targetPoint" />
+            <mxPoint x="575" y="398" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
