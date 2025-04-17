@@ -246,13 +246,13 @@
             <mxPoint x="413" y="668" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-48" value="返回用户信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-48" value="返回302重定向" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="463" y="599" as="targetPoint" />
+            <mxPoint x="100" y="668" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="558" y="599" />
+              <mxPoint x="195" y="668" />
             </Array>
-            <mxPoint x="607" y="599" as="sourcePoint" />
+            <mxPoint x="244" y="668" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
