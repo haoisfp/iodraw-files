@@ -153,11 +153,11 @@
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-37" value="请求验证码" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="127" y="278" as="sourcePoint" />
+            <mxPoint x="434" y="419" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="212" y="278" />
+              <mxPoint x="519" y="419" />
             </Array>
-            <mxPoint x="271" y="278" as="targetPoint" />
+            <mxPoint x="578" y="419" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
