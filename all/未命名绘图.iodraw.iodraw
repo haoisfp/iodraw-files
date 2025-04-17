@@ -218,13 +218,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-44" value="查询用户信息" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-44" value="查询用户信息" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="453" y="564" as="sourcePoint" />
+            <mxPoint x="437" y="626" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="538" y="564" />
+              <mxPoint x="522" y="626" />
             </Array>
-            <mxPoint x="597" y="564" as="targetPoint" />
+            <mxPoint x="581" y="626" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
