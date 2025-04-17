@@ -170,14 +170,23 @@
             <mxPoint x="578" y="447" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-39" value="查询验证码" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-39" value="清除验证码" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="444" y="429" as="sourcePoint" />
+            <mxPoint x="437" y="474" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="529" y="429" />
+              <mxPoint x="522" y="474" />
             </Array>
-            <mxPoint x="588" y="429" as="targetPoint" />
+            <mxPoint x="581" y="474" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-40" value="返回验证码" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="444" y="457" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="539" y="457" />
+            </Array>
+            <mxPoint x="588" y="457" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
