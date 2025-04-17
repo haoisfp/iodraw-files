@@ -151,7 +151,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-37" value="请求验证码" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-37" value="查询验证码" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="434" y="419" as="sourcePoint" />
             <Array as="points">
@@ -159,6 +159,15 @@
             </Array>
             <mxPoint x="578" y="419" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-38" value="存储成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="434" y="447" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="529" y="447" />
+            </Array>
+            <mxPoint x="578" y="447" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
