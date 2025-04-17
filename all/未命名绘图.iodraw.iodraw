@@ -62,7 +62,7 @@
           <mxGeometry x="50" y="120" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-17" value="验证服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="614" y="46" width="110" height="451" as="geometry" />
+          <mxGeometry x="364" y="40" width="110" height="451" as="geometry" />
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="YtK3o3hL1eF2Ipv-bdVO-17">
           <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="50" y="120" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-21" value="Redis" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="580" y="181" width="110" height="451" as="geometry" />
+          <mxGeometry x="565" y="40" width="110" height="451" as="geometry" />
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="YtK3o3hL1eF2Ipv-bdVO-21">
           <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
