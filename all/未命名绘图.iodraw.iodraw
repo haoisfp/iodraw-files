@@ -83,6 +83,15 @@
             <mxPoint x="403" y="138" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YtK3o3hL1eF2Ipv-bdVO-30" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="158" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="351" y="158" />
+            </Array>
+            <mxPoint x="261" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
