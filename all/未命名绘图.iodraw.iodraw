@@ -164,20 +164,20 @@
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-40" value="清除成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="437" y="501" as="targetPoint" />
+            <mxPoint x="429" y="458" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="532" y="501" />
+              <mxPoint x="524" y="458" />
             </Array>
-            <mxPoint x="581" y="501" as="sourcePoint" />
+            <mxPoint x="573" y="458" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YtK3o3hL1eF2Ipv-bdVO-41" value="查询用户信息" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="433" y="544" as="sourcePoint" />
+            <mxPoint x="433" y="507" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="518" y="544" />
+              <mxPoint x="518" y="507" />
             </Array>
-            <mxPoint x="577" y="544" as="targetPoint" />
+            <mxPoint x="577" y="507" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
