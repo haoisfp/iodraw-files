@@ -28,6 +28,9 @@
         <mxCell id="oJFe5IAwmh60zWzpV0dB-8" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;发送HTTP请求,&lt;span style=&quot;background-color: initial;&quot;&gt;JWT身份认证&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="598" y="187" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="oJFe5IAwmh60zWzpV0dB-9" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;发送HTTP请求,&lt;span style=&quot;background-color: initial;&quot;&gt;JWT身份认证&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="601" y="302" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
