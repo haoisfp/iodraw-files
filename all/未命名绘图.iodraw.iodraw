@@ -25,8 +25,8 @@
             <mxPoint x="643" y="365" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oJFe5IAwmh60zWzpV0dB-8" value="&lt;div&gt;发送HTTP请求,&lt;span style=&quot;background-color: initial;&quot;&gt;JWT身份认证&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="588" y="375" width="105" height="30" as="geometry" />
+        <mxCell id="oJFe5IAwmh60zWzpV0dB-8" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;发送HTTP请求,&lt;span style=&quot;background-color: initial;&quot;&gt;JWT身份认证&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="608" y="188" width="117" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
