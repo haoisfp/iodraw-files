@@ -7,16 +7,16 @@
         <mxCell id="oJFe5IAwmh60zWzpV0dB-1" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;前端&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="455" y="109" width="148" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oJFe5IAwmh60zWzpV0dB-2" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Controller&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oJFe5IAwmh60zWzpV0dB-2" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Controller&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="455" y="224" width="148" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oJFe5IAwmh60zWzpV0dB-3" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oJFe5IAwmh60zWzpV0dB-3" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="455" y="339" width="148" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oJFe5IAwmh60zWzpV0dB-4" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Repository&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oJFe5IAwmh60zWzpV0dB-4" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Repository&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="455" y="454" width="148" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oJFe5IAwmh60zWzpV0dB-5" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;数据库&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oJFe5IAwmh60zWzpV0dB-5" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;数据库&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="455" y="569" width="148" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oJFe5IAwmh60zWzpV0dB-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oJFe5IAwmh60zWzpV0dB-1" target="oJFe5IAwmh60zWzpV0dB-2">
