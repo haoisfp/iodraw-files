@@ -40,8 +40,8 @@
         <mxCell id="oJFe5IAwmh60zWzpV0dB-12" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;返回查询结果&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="315" y="532" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oJFe5IAwmh60zWzpV0dB-13" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;返回查询结果&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="325" y="542" width="140" height="30" as="geometry" />
+        <mxCell id="oJFe5IAwmh60zWzpV0dB-13" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;返回查询结果和实体对象&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="417" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
