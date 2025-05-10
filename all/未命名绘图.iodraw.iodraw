@@ -119,9 +119,6 @@
         <mxCell id="r7-HaWzGAW30z7_aXP2A-77" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=north;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
           <mxGeometry x="320" y="420" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="r7-HaWzGAW30z7_aXP2A-78" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=north;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
-          <mxGeometry x="260" y="470" width="180" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-47" value="查看当日佩戴时长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="35" y="420" width="60" height="40" as="geometry" />
         </mxCell>
@@ -202,6 +199,16 @@
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-75" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=north;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="450" width="490" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-79" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="540" as="sourcePoint" />
+            <mxPoint x="520" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="540" />
+              <mxPoint x="470" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
