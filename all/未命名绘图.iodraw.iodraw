@@ -24,7 +24,7 @@
         <mxCell id="r7-HaWzGAW30z7_aXP2A-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
           <mxGeometry x="-105.27000000000001" y="257.42" width="477.68" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r7-HaWzGAW30z7_aXP2A-17" value="历史记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-17" value="患者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
           <mxGeometry x="-21.430000000000007" y="307.42" width="70" height="37.42" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-36" value="压力值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
@@ -155,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-47" value="查看所有患者当日佩戴时长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="35" y="420" width="60" height="40" as="geometry" />
+          <mxGeometry x="35" y="413" width="60" height="47" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-48" value="查看过去7日佩戴时长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="420" width="65" height="40" as="geometry" />
