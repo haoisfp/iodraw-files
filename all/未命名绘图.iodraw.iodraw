@@ -163,11 +163,11 @@
             <mxPoint x="220" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r7-HaWzGAW30z7_aXP2A-48" value="编辑信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
-          <mxGeometry x="-21.430000000000007" y="390" width="65" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-47" value="查看所有患者当日佩戴时长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="35" y="413" width="60" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-48" value="编辑信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="420" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-39" value="主页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="337.42" width="70" height="37.42" as="geometry" />
@@ -202,7 +202,7 @@
             <mxPoint x="490" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r7-HaWzGAW30z7_aXP2A-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r7-HaWzGAW30z7_aXP2A-17">
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.462;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r7-HaWzGAW30z7_aXP2A-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="370" as="sourcePoint" />
             <mxPoint x="184" y="420" as="targetPoint" />
