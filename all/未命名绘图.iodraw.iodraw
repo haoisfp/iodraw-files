@@ -69,19 +69,19 @@
           <mxGeometry x="150" y="330" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-17" value="历史记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="380" width="70" height="37.42" as="geometry" />
+          <mxGeometry x="330" y="640" width="70" height="37.42" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-36" value="压力值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="390" width="70" height="37.42" as="geometry" />
+          <mxGeometry x="330" y="566" width="70" height="37.42" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-37" value="康复锻炼" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="400" width="70" height="37.42" as="geometry" />
+          <mxGeometry x="360" y="520" width="70" height="37.42" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-38" value="设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="410" width="70" height="37.42" as="geometry" />
+          <mxGeometry x="510" y="500" width="70" height="37.42" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-39" value="主页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="305" y="390" width="70" height="37.42" as="geometry" />
+          <mxGeometry x="110" y="380" width="70" height="37.42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
