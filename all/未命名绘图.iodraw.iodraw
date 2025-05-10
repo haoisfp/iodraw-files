@@ -99,9 +99,6 @@
             <mxPoint x="47.640692640692635" y="84.02380952380952" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r7-HaWzGAW30z7_aXP2A-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-92">
-          <mxGeometry x="36.232424242424244" y="98.8004105090312" width="159.69696969696972" height="34.48134326765189" as="geometry" />
-        </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-8" value="用户认证通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-92">
           <mxGeometry x="55.020303030303026" y="133.28175377668308" width="122.12121212121212" height="37.373500738916256" as="geometry" />
         </mxCell>
