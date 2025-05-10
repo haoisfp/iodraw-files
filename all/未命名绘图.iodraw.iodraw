@@ -110,6 +110,12 @@
             <mxPoint x="510" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.509;exitY=0.249;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="r7-HaWzGAW30z7_aXP2A-15" source="r7-HaWzGAW30z7_aXP2A-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="253.45999999999998" y="280" as="sourcePoint" />
+            <mxPoint x="253.45999999999998" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-47" value="查看当日佩戴时长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="35" y="420" width="60" height="40" as="geometry" />
         </mxCell>
@@ -126,7 +132,7 @@
           <mxGeometry x="30" y="337.42" width="70" height="37.42" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-52" value="腹式呼吸锻炼" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="395" y="420" width="60" height="40" as="geometry" />
+          <mxGeometry x="393.57" y="420" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-53" value="设备连接" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="420" width="50" height="30" as="geometry" />
