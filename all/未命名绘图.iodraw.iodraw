@@ -71,8 +71,11 @@
         <mxCell id="r7-HaWzGAW30z7_aXP2A-17" value="历史记录页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="380.00354838709677" width="97.14285714285714" height="37.41935483870967" as="geometry" />
         </mxCell>
-        <mxCell id="r7-HaWzGAW30z7_aXP2A-32" value="账号密码登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="134.19354838709677" width="97.14285714285714" height="37.41935483870967" as="geometry" />
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-32" value="压力值页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="380.00354838709677" width="97.14285714285714" height="37.41935483870967" as="geometry" />
+        </mxCell>
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-33" value="账号密码登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="144.19354838709677" width="97.14285714285714" height="37.41935483870967" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
