@@ -114,7 +114,7 @@
           <mxGeometry x="85" y="344.84" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-60" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
-          <mxGeometry x="325" y="344.84" width="105" height="50" as="geometry" />
+          <mxGeometry x="325" y="344.84" width="185" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-47" value="查看当日佩戴时长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="35" y="420" width="60" height="40" as="geometry" />
