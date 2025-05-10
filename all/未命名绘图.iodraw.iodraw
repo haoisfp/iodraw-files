@@ -35,7 +35,7 @@
           <mxGeometry x="48.57142857142857" y="121.61290322580645" width="170" height="46.774193548387096" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-8" value="用户认证通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
-          <mxGeometry x="54.64285714285714" y="168.38709677419354" width="157.85714285714283" height="56.12903225806451" as="geometry" />
+          <mxGeometry x="54.64" y="168.39" width="157.86" height="41.61" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.233;entryY=0.464;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="r7-HaWzGAW30z7_aXP2A-15" source="r7-HaWzGAW30z7_aXP2A-8" target="r7-HaWzGAW30z7_aXP2A-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -123,7 +123,7 @@
           <mxGeometry x="250" y="460" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-50" value="同步校准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="460" width="60" height="40" as="geometry" />
+          <mxGeometry x="310" y="460" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
