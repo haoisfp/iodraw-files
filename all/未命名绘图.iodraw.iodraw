@@ -146,9 +146,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-52" value="开始校准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
-          <mxGeometry x="103.57" y="388" width="60" height="32" as="geometry" />
+          <mxGeometry x="181" y="388" width="60" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="r7-HaWzGAW30z7_aXP2A-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="r7-HaWzGAW30z7_aXP2A-15" target="r7-HaWzGAW30z7_aXP2A-52">
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="r7-HaWzGAW30z7_aXP2A-15" source="r7-HaWzGAW30z7_aXP2A-36" target="r7-HaWzGAW30z7_aXP2A-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="134" y="345" as="sourcePoint" />
             <mxPoint x="220" y="350" as="targetPoint" />
