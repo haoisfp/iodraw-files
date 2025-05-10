@@ -113,8 +113,8 @@
             <mxPoint x="484.8" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r7-HaWzGAW30z7_aXP2A-47" value="账号密码登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="134.19354838709677" width="97.14285714285714" height="37.41935483870967" as="geometry" />
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-47" value="查看当日佩戴时长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="62.86" y="480.00354838709677" width="97.14285714285714" height="37.41935483870967" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
