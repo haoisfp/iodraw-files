@@ -105,12 +105,12 @@
         <mxCell id="r7-HaWzGAW30z7_aXP2A-8" value="用户认证通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-92">
           <mxGeometry x="-23.48969696969698" y="133.28175377668308" width="122.12121212121212" height="37.373500738916256" as="geometry" />
         </mxCell>
-        <mxCell id="r7-HaWzGAW30z7_aXP2A-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.233;entryY=0.464;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="r7-HaWzGAW30z7_aXP2A-92" source="r7-HaWzGAW30z7_aXP2A-93" target="r7-HaWzGAW30z7_aXP2A-4">
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="r7-HaWzGAW30z7_aXP2A-92" source="r7-HaWzGAW30z7_aXP2A-93">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="255" y="92" as="sourcePoint" />
-            <mxPoint x="332.8138528138528" y="176.45" as="targetPoint" />
+            <mxPoint x="36" y="65" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="100" y="88" />
+              <mxPoint x="104" y="65" />
             </Array>
           </mxGeometry>
         </mxCell>
