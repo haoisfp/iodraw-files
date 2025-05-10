@@ -33,7 +33,7 @@
         <mxCell id="r7-HaWzGAW30z7_aXP2A-37" value="康复锻炼" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
           <mxGeometry x="218.57" y="307.42" width="70" height="37.42" as="geometry" />
         </mxCell>
-        <mxCell id="r7-HaWzGAW30z7_aXP2A-38" value="设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-38" value="患者管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
           <mxGeometry x="340" y="307.42" width="70" height="37.42" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-40" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="r7-HaWzGAW30z7_aXP2A-15" source="r7-HaWzGAW30z7_aXP2A-16" target="r7-HaWzGAW30z7_aXP2A-16">
