@@ -30,7 +30,7 @@
         <mxCell id="r7-HaWzGAW30z7_aXP2A-36" value="压力值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
           <mxGeometry x="98.57" y="307.42" width="70" height="37.42" as="geometry" />
         </mxCell>
-        <mxCell id="r7-HaWzGAW30z7_aXP2A-37" value="康复锻炼" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-37" value="同步校准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
           <mxGeometry x="218.57" y="307.42" width="70" height="37.42" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-38" value="患者管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
