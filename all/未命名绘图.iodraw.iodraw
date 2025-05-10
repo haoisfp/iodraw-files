@@ -114,7 +114,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-47" value="查看当日佩戴时长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="62.86" y="460.00354838709677" width="97.14285714285714" height="37.41935483870967" as="geometry" />
+          <mxGeometry x="100" y="460" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
