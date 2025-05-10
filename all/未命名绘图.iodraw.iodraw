@@ -74,8 +74,11 @@
         <mxCell id="r7-HaWzGAW30z7_aXP2A-36" value="压力值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="390" width="70" height="37.42" as="geometry" />
         </mxCell>
-        <mxCell id="r7-HaWzGAW30z7_aXP2A-37" value="历史记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-37" value="康复锻炼" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="400" width="70" height="37.42" as="geometry" />
+        </mxCell>
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-38" value="设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="410" width="70" height="37.42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
