@@ -77,16 +77,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="99SckLc3qQqGJxqMWygS-21" value="患者管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="120" width="90" height="50" as="geometry" />
+          <mxGeometry x="590" y="110" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="99SckLc3qQqGJxqMWygS-22" value="信息修改" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="190" width="90" height="50" as="geometry" />
+          <mxGeometry x="590" y="170" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="99SckLc3qQqGJxqMWygS-23" value="患者导出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="260" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="99SckLc3qQqGJxqMWygS-24" value="患者导出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="270" width="90" height="50" as="geometry" />
+          <mxGeometry x="590" y="320" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
