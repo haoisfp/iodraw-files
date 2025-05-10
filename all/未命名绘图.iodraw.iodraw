@@ -76,44 +76,44 @@
           <mxGeometry x="320" y="420" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-92" value="" style="group" vertex="1" connectable="0" parent="r7-HaWzGAW30z7_aXP2A-15">
-          <mxGeometry x="20" y="30" width="300" height="166.45" as="geometry" />
+          <mxGeometry x="10" y="20" width="310" height="176.45" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="r7-HaWzGAW30z7_aXP2A-92" vertex="1">
-          <mxGeometry x="46.1038961038961" width="132.46753246753246" height="31.704761904761902" as="geometry" />
+          <mxGeometry x="47.640692640692635" width="136.88311688311688" height="33.60952380952381" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-1" value="账号密码登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-92">
-          <mxGeometry y="71.33270779967158" width="72.72727272727273" height="21.86835952380952" as="geometry" />
+          <mxGeometry y="75.61824146141214" width="75.15151515151516" height="23.182169047619045" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-3" value="小程序统一认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-92">
-          <mxGeometry x="145.45454545454547" y="71.33270779967158" width="81.81818181818183" height="21.86835952380952" as="geometry" />
+          <mxGeometry x="150.3" y="75.62" width="87.7" height="23.18" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-92">
-          <mxGeometry x="35.064935064935064" y="31.704761904761902" width="154.54545454545456" height="39.63095238095238" as="geometry" />
+          <mxGeometry x="36.23376623376623" y="33.60952380952381" width="159.69696969696972" height="42.01190476190476" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-5" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="r7-HaWzGAW30z7_aXP2A-92" source="r7-HaWzGAW30z7_aXP2A-4" target="r7-HaWzGAW30z7_aXP2A-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="355.19480519480516" y="269.49047619047616" as="sourcePoint" />
-            <mxPoint x="35.45454545454546" y="67.78259441707718" as="targetPoint" />
+            <mxPoint x="367.034632034632" y="285.68095238095236" as="sourcePoint" />
+            <mxPoint x="36.63636363636364" y="71.85484400656814" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-6" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="r7-HaWzGAW30z7_aXP2A-92" source="r7-HaWzGAW30z7_aXP2A-4" target="r7-HaWzGAW30z7_aXP2A-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="46.1038961038961" y="59.44642857142857" as="sourcePoint" />
-            <mxPoint x="46.1038961038961" y="79.26190476190476" as="targetPoint" />
+            <mxPoint x="47.640692640692635" y="63.01785714285714" as="sourcePoint" />
+            <mxPoint x="47.640692640692635" y="84.02380952380952" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-92">
-          <mxGeometry x="35.06363636363637" y="93.20106732348111" width="154.54545454545456" height="32.52717249589491" as="geometry" />
+          <mxGeometry x="36.232424242424244" y="98.8004105090312" width="159.69696969696972" height="34.48134326765189" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-8" value="用户认证通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-92">
-          <mxGeometry x="53.24545454545454" y="125.72823981937601" width="118.18181818181819" height="35.25542192118227" as="geometry" />
+          <mxGeometry x="55.020303030303026" y="133.28175377668308" width="122.12121212121212" height="37.373500738916256" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.233;entryY=0.464;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="r7-HaWzGAW30z7_aXP2A-92" source="r7-HaWzGAW30z7_aXP2A-8" target="r7-HaWzGAW30z7_aXP2A-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="277.9220779220779" y="206.08095238095237" as="sourcePoint" />
-            <mxPoint x="322.0779220779221" y="166.45" as="targetPoint" />
+            <mxPoint x="287.18614718614714" y="218.46190476190475" as="sourcePoint" />
+            <mxPoint x="332.8138528138528" y="176.45" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="300" y="166.45" />
+              <mxPoint x="310" y="176.45" />
             </Array>
           </mxGeometry>
         </mxCell>
