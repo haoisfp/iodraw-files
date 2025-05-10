@@ -135,10 +135,10 @@
           <mxGeometry x="530" y="420" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-55" value="主题切换" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="440" width="50" height="30" as="geometry" />
+          <mxGeometry x="590" y="420" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-56" value="退出登录" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="450" width="50" height="30" as="geometry" />
+          <mxGeometry x="650" y="420" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
