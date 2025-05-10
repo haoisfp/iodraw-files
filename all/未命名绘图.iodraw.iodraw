@@ -54,8 +54,13 @@
             <mxPoint x="220" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-13" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r7-HaWzGAW30z7_aXP2A-11">
+          <mxGeometry x="-0.5111" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="165" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
