@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
-          <mxGeometry x="48.57" y="121.61" width="170" height="38.39" as="geometry" />
+          <mxGeometry x="48.57" y="110" width="170" height="38.39" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-8" value="用户认证通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
           <mxGeometry x="70" y="168.39" width="130" height="41.61" as="geometry" />
