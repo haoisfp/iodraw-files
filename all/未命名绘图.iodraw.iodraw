@@ -5,44 +5,44 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="r7-HaWzGAW30z7_aXP2A-15" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="80" width="280" height="310" as="geometry" />
+          <mxGeometry x="170" y="40" width="340" height="290" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="进入小程序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="r7-HaWzGAW30z7_aXP2A-15" vertex="1">
-          <mxGeometry x="50" width="120" height="40" as="geometry" />
+          <mxGeometry x="60.71428571428571" width="145.7142857142857" height="37.41935483870967" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-1" value="账号密码登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
-          <mxGeometry y="90" width="80" height="40" as="geometry" />
+          <mxGeometry y="84.19354838709677" width="97.14285714285714" height="37.41935483870967" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-3" value="小程序统一认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
-          <mxGeometry x="140" y="90" width="80" height="40" as="geometry" />
+          <mxGeometry x="170" y="84.19354838709677" width="97.14285714285714" height="37.41935483870967" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
-          <mxGeometry x="40" y="40" width="140" height="50" as="geometry" />
+          <mxGeometry x="48.57142857142857" y="37.41935483870967" width="170" height="46.774193548387096" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-5" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="r7-HaWzGAW30z7_aXP2A-15" source="r7-HaWzGAW30z7_aXP2A-4" target="r7-HaWzGAW30z7_aXP2A-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="340" as="sourcePoint" />
-            <mxPoint x="330" y="290" as="targetPoint" />
+            <mxPoint x="400.71428571428567" y="318.06451612903226" as="sourcePoint" />
+            <mxPoint x="400.71428571428567" y="271.2903225806451" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-6" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="r7-HaWzGAW30z7_aXP2A-15" source="r7-HaWzGAW30z7_aXP2A-4" target="r7-HaWzGAW30z7_aXP2A-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="75" as="sourcePoint" />
-            <mxPoint x="50" y="100" as="targetPoint" />
+            <mxPoint x="60.71428571428571" y="70.16129032258064" as="sourcePoint" />
+            <mxPoint x="60.71428571428571" y="93.54838709677419" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
-          <mxGeometry x="40" y="130" width="140" height="50" as="geometry" />
+          <mxGeometry x="48.57142857142857" y="121.61290322580645" width="170" height="46.774193548387096" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-8" value="用户认证通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
-          <mxGeometry x="45" y="180" width="130" height="60" as="geometry" />
+          <mxGeometry x="54.64285714285714" y="168.38709677419354" width="157.85714285714283" height="56.12903225806451" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.233;entryY=0.464;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="r7-HaWzGAW30z7_aXP2A-15" source="r7-HaWzGAW30z7_aXP2A-8" target="r7-HaWzGAW30z7_aXP2A-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="260" as="sourcePoint" />
-            <mxPoint x="300" y="210" as="targetPoint" />
+            <mxPoint x="315.71428571428567" y="243.2258064516129" as="sourcePoint" />
+            <mxPoint x="364.2857142857143" y="196.4516129032258" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="280" y="210" />
+              <mxPoint x="340" y="196.4516129032258" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -53,8 +53,8 @@
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-11" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="r7-HaWzGAW30z7_aXP2A-15" source="r7-HaWzGAW30z7_aXP2A-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="340" as="sourcePoint" />
-            <mxPoint x="110" y="270" as="targetPoint" />
+            <mxPoint x="340" y="318.06451612903226" as="sourcePoint" />
+            <mxPoint x="133.57142857142856" y="252.5806451612903" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-13" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r7-HaWzGAW30z7_aXP2A-11">
@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-14" value="主页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
-          <mxGeometry x="70" y="270" width="80" height="40" as="geometry" />
+          <mxGeometry x="85" y="252.5806451612903" width="97.14285714285714" height="37.41935483870967" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
