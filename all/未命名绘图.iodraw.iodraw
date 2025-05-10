@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-93" value="用户认证通过" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-92">
-          <mxGeometry x="201.00030303030303" y="110.00175377668307" width="122.12121212121212" height="37.373500738916256" as="geometry" />
+          <mxGeometry x="134.00030303030303" y="72.00175377668307" width="122.12121212121212" height="37.373500738916256" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-47" value="查看当日佩戴时长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="35" y="420" width="60" height="40" as="geometry" />
