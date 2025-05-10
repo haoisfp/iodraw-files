@@ -11,7 +11,7 @@
           <mxGeometry x="60.71428571428571" width="145.7142857142857" height="37.41935483870967" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-1" value="账号密码登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
-          <mxGeometry y="84.19354838709677" width="97.14285714285714" height="37.41935483870967" as="geometry" />
+          <mxGeometry x="10" y="84.19" width="70" height="25.81" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-3" value="小程序统一认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
           <mxGeometry x="170" y="84.19354838709677" width="97.14285714285714" height="37.41935483870967" as="geometry" />
