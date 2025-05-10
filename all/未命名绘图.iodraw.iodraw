@@ -114,7 +114,7 @@
           <mxGeometry x="35" y="420" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-48" value="查看过去7日佩戴时长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="420" width="65" height="40" as="geometry" />
+          <mxGeometry x="150" y="415" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-49" value="实时压力值获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="420" width="60" height="40" as="geometry" />
