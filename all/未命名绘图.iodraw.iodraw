@@ -194,6 +194,9 @@
             <mxPoint x="180" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-75" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=north;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="480" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
