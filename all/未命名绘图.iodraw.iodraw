@@ -27,6 +27,9 @@
         <mxCell id="r7-HaWzGAW30z7_aXP2A-17" value="个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
           <mxGeometry x="-21.430000000000007" y="307.42" width="70" height="37.42" as="geometry" />
         </mxCell>
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-36" value="同步校准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
+          <mxGeometry x="98.57" y="307.42" width="70" height="37.42" as="geometry" />
+        </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-37" value="同步校准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
           <mxGeometry x="218.57" y="307.42" width="70" height="37.42" as="geometry" />
         </mxCell>
@@ -49,11 +52,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="132.57" y="283.42" as="sourcePoint" />
             <mxPoint x="53.56999999999999" y="317.42" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r7-HaWzGAW30z7_aXP2A-105" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r7-HaWzGAW30z7_aXP2A-44">
-          <mxGeometry x="0.047" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="r7-HaWzGAW30z7_aXP2A-15" source="r7-HaWzGAW30z7_aXP2A-16" target="r7-HaWzGAW30z7_aXP2A-16">
