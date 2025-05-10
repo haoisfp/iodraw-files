@@ -18,7 +18,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r7-HaWzGAW30z7_aXP2A-14" value="进入小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
+        <mxCell id="r7-HaWzGAW30z7_aXP2A-14" value="进入系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
           <mxGeometry x="85" y="220.00064516129032" width="97.14285714285714" height="37.41935483870967" as="geometry" />
         </mxCell>
         <mxCell id="r7-HaWzGAW30z7_aXP2A-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="r7-HaWzGAW30z7_aXP2A-15">
