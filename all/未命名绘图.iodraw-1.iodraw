@@ -10,8 +10,11 @@
         <mxCell id="ShFbcbipibYz17UjalPE-2" value="角色管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="230" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ShFbcbipibYz17UjalPE-3" value="角色管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ShFbcbipibYz17UjalPE-3" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="230" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ShFbcbipibYz17UjalPE-4" value="角色管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="230" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
