@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ShFbcbipibYz17UjalPE-1" value="脊柱侧弯矫形器系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ShFbcbipibYz17UjalPE-1" value="角色管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="100" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ShFbcbipibYz17UjalPE-2" value="角色管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="240" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
