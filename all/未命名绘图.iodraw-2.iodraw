@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uxwkF_8zF0XGSVI4fIE2-1" value="患者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="uxwkF_8zF0XGSVI4fIE2-1" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="315" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uxwkF_8zF0XGSVI4fIE2-4" value="查看佩戴时长" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -60,6 +60,9 @@
             <mxPoint x="330" y="360" as="sourcePoint" />
             <mxPoint x="430" y="345" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uxwkF_8zF0XGSVI4fIE2-19" value="查看佩戴时长" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="185" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
