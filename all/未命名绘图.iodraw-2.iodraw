@@ -19,7 +19,7 @@
         <mxCell id="uxwkF_8zF0XGSVI4fIE2-8" value="查询患者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="355" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uxwkF_8zF0XGSVI4fIE2-9" value="修改用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uxwkF_8zF0XGSVI4fIE2-9" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="415" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uxwkF_8zF0XGSVI4fIE2-11" value="删除用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
