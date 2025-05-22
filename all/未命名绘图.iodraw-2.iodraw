@@ -10,7 +10,7 @@
         <mxCell id="uxwkF_8zF0XGSVI4fIE2-4" value="查看佩戴时长" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="130" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uxwkF_8zF0XGSVI4fIE2-6" value="查看佩戴时长" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uxwkF_8zF0XGSVI4fIE2-6" value="进行康复锻炼" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="190" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uxwkF_8zF0XGSVI4fIE2-7" value="查看佩戴时长" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="uxwkF_8zF0XGSVI4fIE2-9" value="查看佩戴时长" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="370" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uxwkF_8zF0XGSVI4fIE2-11" value="查看佩戴时长" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
