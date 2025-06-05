@@ -8,10 +8,10 @@
           <mxGeometry x="429" y="122" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nTt3wVAYMsCxhtG0bVy1-2" value="患者管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="346" y="266" width="60" height="173" as="geometry" />
+          <mxGeometry x="369" y="241" width="60" height="173" as="geometry" />
         </mxCell>
         <mxCell id="nTt3wVAYMsCxhtG0bVy1-3" value="远程医疗" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="548" y="275" width="60" height="173" as="geometry" />
+          <mxGeometry x="305" y="256" width="60" height="173" as="geometry" />
         </mxCell>
         <mxCell id="nTt3wVAYMsCxhtG0bVy1-4" value="数据可视化" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="749" y="295" width="60" height="173" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="689" y="271" width="60" height="173" as="geometry" />
         </mxCell>
         <mxCell id="nTt3wVAYMsCxhtG0bVy1-6" value="康复管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="578" y="248" width="60" height="173" as="geometry" />
+          <mxGeometry x="873" y="256" width="60" height="173" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
