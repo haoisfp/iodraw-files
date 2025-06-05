@@ -8,10 +8,10 @@
           <mxGeometry x="429" y="122" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nTt3wVAYMsCxhtG0bVy1-2" value="患者管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="369" y="241" width="60" height="173" as="geometry" />
+          <mxGeometry x="364" y="238" width="60" height="173" as="geometry" />
         </mxCell>
         <mxCell id="nTt3wVAYMsCxhtG0bVy1-3" value="远程医疗" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="305" y="256" width="60" height="173" as="geometry" />
+          <mxGeometry x="454" y="238" width="60" height="173" as="geometry" />
         </mxCell>
         <mxCell id="nTt3wVAYMsCxhtG0bVy1-4" value="数据可视化" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="544" y="238" width="60" height="173" as="geometry" />
