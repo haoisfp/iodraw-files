@@ -11,10 +11,10 @@
           <mxGeometry x="364" y="265" width="60" height="173" as="geometry" />
         </mxCell>
         <mxCell id="nTt3wVAYMsCxhtG0bVy1-3" value="远程医疗" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="454" y="265" width="60" height="173" as="geometry" />
+          <mxGeometry x="485" y="265" width="60" height="173" as="geometry" />
         </mxCell>
         <mxCell id="nTt3wVAYMsCxhtG0bVy1-4" value="数据可视化" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="544" y="265" width="60" height="173" as="geometry" />
+          <mxGeometry x="620" y="265" width="60" height="173" as="geometry" />
         </mxCell>
         <mxCell id="nTt3wVAYMsCxhtG0bVy1-5" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="730" y="265" width="60" height="173" as="geometry" />
