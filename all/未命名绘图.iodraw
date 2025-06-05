@@ -13,6 +13,12 @@
         <mxCell id="nTt3wVAYMsCxhtG0bVy1-3" value="远程医疗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="548" y="275" width="60" height="173" as="geometry" />
         </mxCell>
+        <mxCell id="nTt3wVAYMsCxhtG0bVy1-4" value="数据可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="558" y="285" width="60" height="173" as="geometry" />
+        </mxCell>
+        <mxCell id="nTt3wVAYMsCxhtG0bVy1-5" value="数据可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="568" y="295" width="60" height="173" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
